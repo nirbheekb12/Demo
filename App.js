@@ -13,11 +13,6 @@ import {
 } from 'react-native';
 
 
-
-
-
-
-
 const instructions = Platform.select({
   ios: 'Press Cmd+R to relo,\n' +
     'Cmd+D or shake for dev menu',
